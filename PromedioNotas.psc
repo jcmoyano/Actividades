@@ -1,5 +1,4 @@
 Algoritmo PromedioNotas
-	Definir nota1, nota2, nota3, nota4, nota5, promedio Como Real
     
     Escribir "Ingrese la nota de la primer materia:"
     Leer nota1
